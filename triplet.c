@@ -16,27 +16,3 @@ int main()
  printf("\n");
  return 0;
 }
-/*
-#include<stdio.h>
-int main()
-{
- int n,i,j,m,a[50],b[50];
- scanf("%d",&n);
- for(i=0;i<n;i++)
-  scanf("%d",&a[i]);
- scanf("%d",&m);
-  for(i=0;i<m;i++)
-  scanf("%d",&b[i]);
-
- for(i=0;i<n;i++)
- {for(j=0;j<m;j++)
-   if(a[i]!=b[j])
-   { printf("%d ",a[j]);break;
-   }
-   
-  
- }
- printf("\n");
- return 0;
-}*/
-
